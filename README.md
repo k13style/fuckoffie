@@ -9,6 +9,6 @@ IE8,9 > hide body content & show "FUCK OFF IE"
 
 USE
 
-- add <html>tags
+- add html tags
 
 - import "styles/f.css"
